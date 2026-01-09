@@ -2,7 +2,7 @@
 
 **Author: Terry R. Payne (University of Liverpool)**
 
-This is the home of the [ISWC Chairs Guide](http://iswcchairguide.github.io) to organsing the Internatinoal Semantic Web Conference, organised by the [Semantic Web Sicence Association](https://swsa.semanticweb.org).  The guide is written using markdown, hosted in Github, and utilises the [Millidocs](https://github.com/alexander-heimbuch/millidocs) Jekyll theme, written by Alexander Heimbuch (under the MIT License).  The configuration for Jekyll is given in the [_config.yml](_config.yml) file.
+This is the home of the [ISWC Chairs Guide](https://iswc-guide.github.io/chair-guide.github.io/) to organsing the Internatinoal Semantic Web Conference, organised by the [Semantic Web Sicence Association](https://swsa.semanticweb.org).  The guide is written using markdown, hosted in Github, and utilises the [Millidocs](https://github.com/alexander-heimbuch/millidocs) Jekyll theme, written by Alexander Heimbuch (under the MIT License).  The configuration for Jekyll is given in the [_config.yml](_config.yml) file.
 
 ## Status
 
