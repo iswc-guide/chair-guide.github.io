@@ -4,22 +4,100 @@ title: Organising Committee
 navigation: 2
 ---
 
-# Roles and Responsibilities within the Organising Committee 
+# Roles and Responsibilities within the Organising Committee (OC)
 
 ## Introduction
 
-One of the first things that need to be done in the organisation of ISWC is in the formation of the **Organising Committee*.
+One of the first things that need to be done in the organisation of ISWC is in the formation of the **Organising Committee (OC)**. Ideally, the *General Chair* should invite (and have them accept) chairs for each of the roles ***at least one year prior to the event*** (i.e. typically before the previous year's ISWC conference). This is typically done once the location (and the identity of local chair) has been finalised by [SWSA](https://swsa.semanticweb.org); so that the invitees can ascertain if they can attend the conference.
 
-**CONTINUE HERE - nothe the next point will probably be in the intro section
+Traditionally, SWSA offers comments and advice on the key roles: primarily the chairs of the main tracks (Research, Resources, In-Use).  Therefore, when drawing up a shortlist, the *General Chair* should consult SWSA before reaching out to individuals.
 
-* You’ll probably have been invited two years prior to the conference date. You may or may not need to wait to find out where the conference will be held, when, and the Local Chairs, all of which will be decided by SWSA. It would be good to chat with the Local Chairs to see what roles each one will take on.  
-* SWSA has a set of documents that include an official guide for General Chairs, past statistics for ISWC, etc. For example, the [General Chair guide is here](https://swsa.semanticweb.org/private/guide-iswc-conference-chairs). In case this was not shared with you, you may need to contact SWSA to solicit an account (Ian Horrocks seems to manage the logins, at least as of 2024).  
-* Your first concrete goal will be to have your full OC invited and accepted in anticipation of the ISWC being held the year before the one in which you will GC (henceforth: prior ISWC). You can start this once you know when and where (city) the conference will be held so OC invitees can decide if they will be able to attend or not. Diversity is important for the OC (gender, geographical, etc.). SWSA like to validate beforehand who you intend to invite to the chairs of the main tracks (Research, Resources, In-Use) so be sure to reach out to let them know who you intend to invite for these roles.  
+**Diversity is important** for the OC (gender, geographical, etc.), so please be mindfull of this.  It is also possible to check the manes of previous chairs by consulting the [following spreadsheet](https://docs.google.com/spreadsheets/d/169mThBN6U09JvH_cILnV5rih2WIJz3kClfV4kXJeick/edit?gid=0#gid=0). Likewise, where possible, consider identfying a mix of individuals with experience together with those who have not served on previous ISWC OCs. nominations.
 
-# Notes, Tips and useful Resorces
+Note that in past years, come invitiees may not respond promptly (or at all) to invitations, so factor in possible delays in the formation of the new OC.
 
-  * **TIP**: It’s also important to note that people who are invited may not reply, may say no, etc. And the OC is large\! So start this process several months in advance of the prior ISWC being held.  
-  * **TIP**: If you want to avoid repeat roles, you might find the [following spreadsheet](https://docs.google.com/spreadsheets/d/169mThBN6U09JvH_cILnV5rih2WIJz3kClfV4kXJeick/edit?gid=0#gid=0) useful. (And please extend it for future years.)  
-* The Local Chairs should also have the homepage up with the OC and conference dates before the prior ISWC. Stefan Decker controls the semanticweb.org domain, so once you have an IP, get the local organisers to send it to Stefan to create an A-Record.  
-  * **TIP**: Getting the website, domain, logo, banner, etc., ready can take time so this process should be started several months prior to the previous ISWC. The website is crucial and getting it up early is very *very* important\!  
-  * **TIP**: In ISWC 2024, the Local Chairs decided to hire a company to manage the website. This created significant delays as the company had certain policies and processes in place (e.g., 3 weeks to set up a custom domain). Be wary of this decision. Getting a couple of trustworthy, responsive PhDs or Postdocs to manage a WordPress instance or lightweight solution will be a lot more agile.
+---
+
+## Time Line
+
+* ***>12-18 months*** 
+
+	* Aim to finalise the Chair positions at least one year before the prior ISWC Conference.  Ideally, the Website should be launched at that conference and list details of all members of the Organising Committee.
+
+* ***12 months (at prior ISWC Conference)*** 
+
+	* Ideally the *General Chair* (or if not possible, someone to represent the OC) should attend the previous year's ISWC to attend:
+		* the Town Hall meeting (to garner current feedback), 
+		* the OC Lunch (typically on the last day, where the main chairs of the prior and new ISWC and be introduced and can exhange details etc), and 
+		* the closing ceremony, where a presentation of your event should be launched (typically with a video presentation) in coordination with SWSA and the prior *Local Chairs*. 
+
+
+
+---
+
+## Chair Positions and Responsibilities
+
+Each of the chair positions are listed below.  Typically, two chairs are appointed for each role to ensure robustness and resilience for each role, though having three, though unusual, is not unheard of.  It is rare to have one chair - but if this is done, avoid this on time-critical roles. The list of roles below reflects the main roles, but these can vary with each conference edition (for example, the inclusion of the *Job Fair Chair* in 2025 or the *Visionary Ideas Track Chair* in 2026).
+
+* **General Chair:** 
+Typically a single role - responsible for the overall management and delivery of the conference, including the appointment of the OC. Core management includes coordinating the overall program of events (with the *Research Track Chairs*) and delivering the conference itself (with the *Local Chairs*). Also responsible for the financial planning of the conference.
+
+	* **Sponsor Chairs:**
+	Responsible for soliciting sponsorship (and subsequent advertising) for the conference, supporting the financial planning of the conference.
+
+	* **Student Grants Chairs:**
+	Oversee travel grants and other support for students at the conference.
+
+
+* **Local Chairs:** 
+Responsible for the original bid to host the conference; these chairs coordinate the venue, social activities (including welcome reception and banquet), and are responsible for overseeing all technical and Audio/Visual services to ensure the conference runs smoothly.  They also traditionally oversee the activities of the *Web Presence and Publicity Chairs*.
+
+	* **Web Presence and Publicity Chairs:** 
+	Manage updates to the web site and all publicity activities, including advertising calls, the event itself, activities during the conference, and recording conference activities. Typically report back to the *Local Chairs*.
+
+ 
+* **Research Track Chairs:** 
+Responsible for the overall programme, and coordinating the activities of the other main tracks, with the *In-Use Application Track Chairs* and *Industry Track Chairs*. The selected papers form the tracks of the main programme, as opposed to the co-located events. They are also repsonsible for managing the solicitation, review and selection of submissions for the main tracks of the conference, as well as coordinating other events (such as invited talks, panels and introduction of new tracks with the *General Chair*). Also coordinate with other chairs and *General Chair* to finalise the overal programme of the main and co-located events.
+
+	* **In-Use Application Track Chairs:**
+	Responsible for managing the solicitation, review and selection of submissions for the In-Use Application track.  Coordinate with *Research Track Chairs*.
+
+	* **Industry Track Chairs:**
+	Responsible for managing the solicitation, review and selection of submissions for the Industry track.  Coordinate with *Research Track Chairs*.
+
+	* **Poster, Demo & Lightning Talk Chairs:**
+	Responsible for managing the solicitation, review and selection of demo submissions and poster publications (including late breaking submissions), together with main track subissions that are accepted as posters.  Also repsonsible for coordinating the lightning talk session. Coordinate with *Research Track Chairs*.
+
+	* **Panel Chairs:**
+	Respoonsible for planning the panel session, incluing the selection of topics and speakers.
+
+	* **Dagsthul-style Workshop Chairs:**
+	Responsible for managing the solicitation, revie, selection and coordination of Dagsthul-style workshops.
+
+	* **Proceedings & Metadata Chairs:**
+	Responsible for the coordiation and assembly of the Proceedings Volumes (in coordination primarily with the *Research Track Chairs* and *General Chair*, but also with other track cheirs where necessary.
+
+
+* **Workshops and Tutorials Chairs:**
+Responsible for managing the solicitation, review and selection of workshop / tutorial submissions (forming the main co-located events that occur prior to the main conference programme).  Also responsble for coordinating with the successful individual tutorial and workshop track chairs.  Need to coordinate with *Local Chairs* to ensure capacity wrt rooms etc.
+
+* **Doctoral Consortium Chairs:**
+Responsible for solicitation, review, selection and running of the Doctorial Consortium.
+
+* **Semantic Web Challenge Chairs:**
+Details coming soon...
+
+
+
+
+
+
+
+---
+
+## Notes, Tips and useful Resorces
+
+* The [following spreadsheet](https://docs.google.com/spreadsheets/d/169mThBN6U09JvH_cILnV5rih2WIJz3kClfV4kXJeick/edit?gid=0#gid=0) lists the members of past Ogragising Comittees can be found here - **please extend it for future years**.
+
+
+
